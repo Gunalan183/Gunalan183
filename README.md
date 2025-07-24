@@ -13,7 +13,7 @@
 💼 I'm actively exploring opportunities in **Web Development, NLP, and Full Stack Engineering**.  
 🌱 I’m learning advanced **React.js, Node.js, MongoDB**, and building production-grade apps.  
 💬 Ask me about anything related to **HTML, CSS, JS, React, Node, or Python**.  
-📬 How to reach me: gunalanadscet@gmail.com  
+📬 How to reach me: gunalana18@gmail.com  
 
 ---
 
@@ -54,7 +54,7 @@ An interactive task manager with CRUD operations.
 A real-time weather info web app using API integration.  
 **Stack**: HTML, CSS, JS
 
-### 🔹 [🧪 MiniLang](https://github.com/gunalanadscet)  
+### 🔹 [🧪 BabyPy](https://github.com/gunalanadscet)  
 A toy programming language written in Python with support for:
 - Variables, Print, Arithmetic
 - Conditionals, Loops
