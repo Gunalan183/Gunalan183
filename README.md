@@ -1,18 +1,101 @@
-# 💫 About Me:
-👨‍💻 I'm currently working on enhancing my portfolio website and building interactive web applications to showcase my skills.<br><br>🤝 I'm looking to collaborate on innovative web projects that push the boundaries of technology and design.<br><br>🆘 I'm looking for help with optimizing web performance and mastering advanced frontend development techniques.<br><br>📚 I'm currently learning about serverless architecture and exploring the world of progressive web apps (PWAs).<br><br>❓ Ask me about anything related to web development, from HTML semantics to CSS animations and JavaScript frameworks.<br><br>🎉 Fun fact: Did you know that the first website went live on August 6, 1991? It was created by Tim Berners-Lee at CERN and was dedicated to information on the World Wide Web project.
+<h1 align="center">Hi 👋, I'm Gunalan A</h1>
+<h3 align="center">Frontend | Full Stack | Python Developer | NLP Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunalan18) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gunalan183&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gunalan183&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunalan183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gunalanadscet&label=Profile%20views&color=0e75b6&style=flat" alt="gunalanadscet" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gunalan183&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 I’m currently pursuing **B.Tech Information Technology (3rd Year)** at **Dhanalakshmi Srinivasan College of Engineering and Technology**.  
+💼 I'm actively exploring opportunities in **Web Development, NLP, and Full Stack Engineering**.  
+🌱 I’m learning advanced **React.js, Node.js, MongoDB**, and building production-grade apps.  
+💬 Ask me about anything related to **HTML, CSS, JS, React, Node, or Python**.  
+📬 How to reach me: gunalanadscet@gmail.com  
+
+---
+
+## 🚀 Skills & Technologies
+
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### 🧠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+### 🐍 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 [📚 E-Book Store](https://github.com/gunalanadscet)  
+A responsive web app for accessing e-books categorized by Frontend, Backend, Data Science, and Cyber Security.  
+**Stack**: HTML, CSS, JS, Bootstrap
+
+### 🔹 [📝 TO-DO List App](https://github.com/gunalanadscet)  
+An interactive task manager with CRUD operations.  
+**Stack**: HTML, CSS, JS
+
+### 🔹 [🌦 WeatherVue](https://github.com/gunalanadscet)  
+A real-time weather info web app using API integration.  
+**Stack**: HTML, CSS, JS
+
+### 🔹 [🧪 MiniLang](https://github.com/gunalanadscet)  
+A toy programming language written in Python with support for:
+- Variables, Print, Arithmetic
+- Conditionals, Loops
+- Functions, Input/Output
+
+---
+
+## 🎓 Internship Experience
+
+- ✅ **CodSoft** – Frontend Developer
+- ✅ **CipherByte Technologies** – Web Developer
+- ✅ **Zidio Development** – Web Developer
+- ✅ **Bharat Intern** – Web Developer
+- ✅ **The Spark Foundation** – Web Developer
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunalanadscet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunalanadscet&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunalanadscet&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🧾 Certificates & Events
+- 🧾 Attended Workshop on **Web Development** – MIT
+- 🧾 Presented Paper on **Web Development** – Agni Institute of Technology
+- 🧾 Participated in multiple internship tasks & projects
+- 📱 Admin of a **WhatsApp Placement Group**
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunalanadscet)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gunalanadscet@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gunalanadscet)
+
+---
+
+_“Building tomorrow’s tech, one project at a time.”_ 🚀
