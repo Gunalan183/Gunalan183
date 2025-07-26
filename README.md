@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gunalan A</h1>
-<h3 align="center">Frontend | Full Stack | Python Developer | NLP Enthusiast</h3>
+<h3 align="center">UI/UX Designer | MERN Stack | Python Developer | NLP Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gunalanadscet&label=Profile%20views&color=0e75b6&style=flat" alt="gunalanadscet" />
