@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I’m currently pursuing **B.Tech Information Technology (3rd Year)** at **Dhanalakshmi Srinivasan College of Engineering and Technology**.  
+🎓 I’m currently pursuing **B.Tech Information Technology (Final Year)** at **Dhanalakshmi Srinivasan College of Engineering and Technology**.  
 💼 I'm actively exploring opportunities in **Web Development, NLP, and Full Stack Engineering**.  
 🌱 I’m learning advanced **React.js, Node.js, MongoDB**, and building production-grade apps.  
 💬 Ask me about anything related to **HTML, CSS, JS, React, Node, or Python**.  
@@ -92,9 +92,9 @@ A toy programming language written in Python with support for:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunalanadscet)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gunalanadscet@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gunalanadscet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunalana18)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gunalana18@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gunalan183)
 
 ---
 
