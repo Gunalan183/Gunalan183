@@ -43,11 +43,11 @@ Currently diving deep into *React, Node.js, Next.js, MongoDB*, and always lookin
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/gunalan18/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/yourgithub" target="_blank">
+  <a href="https://github.com/Gunalan183" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
   </a>
   &nbsp;&nbsp;
@@ -58,34 +58,35 @@ Currently diving deep into *React, Node.js, Next.js, MongoDB*, and always lookin
 
 ---
 
-### 📊 GitHub Stats 
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight&border_radius=10&title_color=ffffff&icon_color=79ff97" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourgithub&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gunalan183&show_icons=true&theme=tokyonight&border_radius=10&title_color=ffffff&icon_color=79ff97" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gunalan183&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
 </p>
 
 ---
 
-### 🧠 Most Used Languages
+### 🧠 Most Used Languages  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight&langs_count=8&border_radius=10&title_color=ffffff&icon_color=79ff97" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunalan183&layout=compact&theme=tokyonight&langs_count=8&border_radius=10&title_color=ffffff&icon_color=79ff97" height="170" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithub&theme=tokyo-night&area=true&hide_border=false&radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunalan183&theme=tokyo-night&area=true&hide_border=false&radius=10" />
 </p>
 
 ---
 
-### 🧩 GitHub Trophies
+### 🧩 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithub&theme=algolia&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gunalan183&theme=algolia&column=7&no-frame=true" />
 </p>
 
 ---
