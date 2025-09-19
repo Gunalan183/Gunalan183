@@ -1,101 +1,127 @@
-<h1 align="center">Hi 👋, I'm Gunalan A</h1>
-<h3 align="center">UI/UX Designer | MERN Stack | Python Developer | NLP Enthusiast</h3>
+<!-- Header -->
+<div>
+<div align="left">
+<img src="assets/avatar.png" alt="Hemnath Avatar" width="50" />
+</div>
+
+  <div align="center" style="display: inline-block; vertical-align: top; max-width: 500px; margin-left: 20px;">
+    <h2>Hey there 👋 I'm Gunalan </h2>
+    <i>Full Stack Developer in Progress | Student | Passionate about clean code & UI/UX</i><br><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=400&lines=Building+with+MERN+%7C+Next.js;Always+Learning+Something+New+%F0%9F%92%AB;Let's+Connect+%26+Code+Together+%F0%9F%94%A5" alt="Typing SVG" />
+  </div>
+
+  </div>
+
+---
+
+### 👨‍💻 About Me
+
+Hi! I'm *Hemnath M*, a passionate full-stack developer with a love for crafting clean UIs, building smart backend logic, and continuously evolving as a dev.  
+Currently diving deep into *React, Node.js, Next.js, MongoDB*, and always looking for ways to improve and build impactful projects.
+
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunalanadscet&label=Profile%20views&color=0e75b6&style=flat" alt="gunalanadscet" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,nextjs,python&theme=dark" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 I’m currently pursuing **B.Tech Information Technology (Final Year)** at **Dhanalakshmi Srinivasan College of Engineering and Technology**.  
-💼 I'm actively exploring opportunities in **Web Development, NLP, and Full Stack Engineering**.  
-🌱 I’m learning advanced **React.js, Node.js, MongoDB**, and building production-grade apps.  
-💬 Ask me about anything related to **HTML, CSS, JS, React, Node, or Python**.  
-📬 How to reach me: gunalana18@gmail.com  
-
----
-
-## 🚀 Skills & Technologies
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-### 🧠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-
-### 🐍 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📁 Featured Projects
-
-### 🔹 [📚 E-Book Store](https://github.com/gunalanadscet)  
-A responsive web app for accessing e-books categorized by Frontend, Backend, Data Science, and Cyber Security.  
-**Stack**: HTML, CSS, JS, Bootstrap
-
-### 🔹 [📝 TO-DO List App](https://github.com/gunalanadscet)  
-An interactive task manager with CRUD operations.  
-**Stack**: HTML, CSS, JS
-
-### 🔹 [🌦 WeatherVue](https://github.com/gunalanadscet)  
-A real-time weather info web app using API integration.  
-**Stack**: HTML, CSS, JS
-
-### 🔹 [🧪 BabyPy](https://github.com/gunalanadscet)  
-A toy programming language written in Python with support for:
-- Variables, Print, Arithmetic
-- Conditionals, Loops
-- Functions, Input/Output
-
----
-
-## 🎓 Internship Experience
-
-- ✅ **CodSoft** – Frontend Developer
-- ✅ **CipherByte Technologies** – Web Developer
-- ✅ **Zidio Development** – Web Developer
-- ✅ **Bharat Intern** – Web Developer
-- ✅ **The Spark Foundation** – Web Developer
-
----
-
-## 📊 GitHub Dashboard
+### 🔧 Tools I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunalanadscet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunalanadscet&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunalanadscet&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark" />
 </p>
 
 ---
 
-## 🧾 Certificates & Events
-- 🧾 Attended Workshop on **Web Development** – MIT
-- 🧾 Presented Paper on **Web Development** – Agni Institute of Technology
-- 🧾 Participated in multiple internship tasks & projects
-- 📱 Admin of a **WhatsApp Placement Group**
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="mailto:hemnath041104@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hemnath-marimuthu-in/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Hemnath4114" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/hemnath._._/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with Me
+### 📊 GitHub Stats 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunalana18)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gunalana18@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gunalan183)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemnath4114&show_icons=true&theme=tokyonight&border_radius=10&title_color=ffffff&icon_color=79ff97" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hemnath4114&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
+</p>
 
 ---
 
-_“Building tomorrow’s tech, one project at a time.”_ 🚀
+### 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemnath4114&layout=compact&theme=tokyonight&langs_count=8&border_radius=10&title_color=ffffff&icon_color=79ff97" height="170" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemnath4114&theme=tokyo-night&area=true&hide_border=false&radius=10" />
+</p>
+
+---
+
+### 🧩 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hemnath4114&theme=algolia&column=7&no-frame=true" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🧠 Built *ThinkNotes*, a collaborative note-taking MERN app  
+- 💡 Created *MoodTunes* – mood-based music player using JS  
+- 🥇 Class Captain & active participant in tech committees  
+- 🌐 Deployed multiple apps using *Render*  
+- 💬 Mentoring juniors in coding, communication & careers  
+
+---
+
+
+### 🎯 Fun Facts
+
+- 🔥 I don’t just write code — I *solve problems*
+- 🧩 Addicted to clean UI and micro-interactions
+- 🏏 Football + Cricket = My other languages
+- 🤖 Big fan of AI, logic, and pushing limits
+
+---
+
+### 💬 Personal Motto
+
+<p align="center">
+  <i>"Be kind. Be curious. Code with intention."</i><br />
+  <b>You did good, man. You made it. 🚀</b>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤ by Hemnath
+</p>
+
+---
