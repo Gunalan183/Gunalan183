@@ -86,7 +86,7 @@ Currently diving deep into *React, Node.js, Next.js, MongoDB*, and always lookin
 ### 🧩 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gunalan183&theme=algolia&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gunalan183&theme=algolia&margin-w=15&margin-h=15" />
 </p>
 
 ---
