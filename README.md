@@ -1,7 +1,7 @@
 <!-- Header -->
 <div>
   <div align="left">
-    <img src="assets/avatar.png" alt="Gunalan Avatar" width="50" />
+    <img src="./Gunal causal pic.jpg" alt="Gunalan Avatar" width="50" />
   </div>
 
   <div align="center" style="display: inline-block; vertical-align: top; max-width: 500px; margin-left: 20px;">
